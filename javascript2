@@ -1,0 +1,56 @@
+const products = [
+  {
+    id: 0,
+    name: "figurka",
+    price: 999,
+    instock: 100,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+    imgSrc: "./img/figurka.png",
+  },
+  {
+    id: 1,
+    name: "lahev",
+    price: 320,
+    instock: 43,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+    imgSrc: "./img/lahev.png",
+  },
+  {
+    id: 2,
+    name: "modrá mykyna",
+    price: 310,
+    instock: 10,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+    imgSrc: "./img/mykyna5.png",
+  },
+  {
+    id: 3,
+    name: "žlutá mykyna",
+    price: 310,
+    instock: 5,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+    imgSrc: "./img/yellow fire mykyna.png",
+  },
+  {
+    id: 4,
+    name: "modrý sešit",
+    price: 120,
+    instock: 4,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+    imgSrc: "./img/blue fire sešit.png",
+  },
+  {
+    id: 5,
+    name: "žlutý sešit",
+    price: 125,
+    instock: 40,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+    imgSrc: "./img/yellow fire sešit.png",
+  },
+];
